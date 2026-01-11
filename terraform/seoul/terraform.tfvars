@@ -7,7 +7,6 @@
 project_name = "MegaTicket"
 environment  = "test"
 aws_region   = "ap-northeast-2"
-aws_profile  = "default"
 
 # VPC CIDR (10.100.0.0/16 사용 - 기존 VPC와 충돌 방지)
 vpc_cidr              = "10.100.0.0/16"

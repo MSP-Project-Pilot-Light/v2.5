@@ -6,8 +6,7 @@
 
 project_name = "MegaTicket"
 environment  = "test"
-aws_region   = "ap-northeast-1"  # 도쿄 리전
-aws_profile  = "default"
+aws_region   = "ap-northeast-1"  
 
 # VPC CIDR (서울과 다른 CIDR, 서브넷 크기는 동일)
 vpc_cidr              = "10.1.0.0/16"
